@@ -1,0 +1,41 @@
+name: second-brain-pipeline
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs automatically every 6 hours
+  workflow_dispatch: {}     # Lets you click a button to test anytime
+
+concurrency:
+  group: second-brain-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests pyyaml trafilatura youtube-transcript-api
+
+      - name: Run pipeline
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/pipeline.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "second-brain-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --quiet --cached || git commit -m "chore: automated second brain sync"
+          git push origin HEAD:main

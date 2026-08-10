@@ -1,14 +1,14 @@
 ---
 title: No Content Available
 tags:
+- No Content
 - No Text Provided
 - YouTube Video
-- No Summary Available
-source: 20260810T075127Z-link.md
-created: 2026-08-10T07:51+00:00
+source: 20260810T132026Z-link.md
+created: 2026-08-10T13:20+00:00
 status: processed
 ---
 
 # No Content Available
-* No text provided
+* No text provided to summarize
 * URL link to YouTube video does not contain text to summarize

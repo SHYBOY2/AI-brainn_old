@@ -1,7 +1,7 @@
 # Index
 
 
-## No Summary Available
+## No Content
 - [[No Content Available]]
 
 ## No Text Provided

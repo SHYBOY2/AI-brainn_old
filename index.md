@@ -1,13 +1,13 @@
 # Index
 
 
-## Insufficient Data
+## Incomplete
 - [[No Content Available]]
 
-## No Text Provided
+## No Content
 - [[No Content Available]]
 
-## YouTube Video
+## YouTube Link
 - [[No Content Available]]
 
 ## qa

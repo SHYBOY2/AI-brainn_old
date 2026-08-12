@@ -1,13 +1,13 @@
 # Index
 
 
-## Failed Fetch
+## No Summary Available
 - [[No Content Available]]
 
-## No Content
+## No Text Provided
 - [[No Content Available]]
 
-## YouTube Link
+## YouTube Video
 - [[No Content Available]]
 
 ## qa

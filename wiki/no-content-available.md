@@ -1,14 +1,14 @@
 ---
 title: No Content Available
 tags:
-- No Content
-- YouTube Link
-- Failed Fetch
-source: 20260811T190919Z-link.md
-created: 2026-08-11T19:09+00:00
+- No Text Provided
+- YouTube Video
+- No Summary Available
+source: 20260812T022333Z-link.md
+created: 2026-08-12T02:23+00:00
 status: processed
 ---
 
 # No Content Available
-* No text provided to summarize
-* URL appears to be a YouTube link, but no content was fetched
+* No text provided
+* URL link to YouTube video does not contain text to summarize

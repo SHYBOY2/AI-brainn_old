@@ -4,17 +4,20 @@
 ## August 2026
 - [[Journal Entry 11 August 2026]]
 
-## Content Unavailable
-- [[No Content Available]]
-
-## Error
-- [[No Content Available]]
-
 ## Journal Entry
 - [[Journal Entry 11 August 2026]]
 
+## No Summary Available
+- [[No Content Available]]
+
+## No Text Provided
+- [[No Content Available]]
+
 ## Recall Request
 - [[Journal Entry 11 August 2026]]
+
+## YouTube Video
+- [[No Content Available]]
 
 ## qa
 - [[Query: What is an AI second brain?]]

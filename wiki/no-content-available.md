@@ -4,11 +4,11 @@ tags:
 - No Text Provided
 - YouTube Video
 - No Summary Available
-source: 20260813T022457Z-link.md
-created: 2026-08-13T02:24+00:00
+source: 20260813T074220Z-link.md
+created: 2026-08-13T07:42+00:00
 status: processed
 ---
 
 # No Content Available
-* No text provided to summarize
+* No text provided
 * URL link to YouTube video does not contain text to summarize

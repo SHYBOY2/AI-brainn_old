@@ -1,11 +1,11 @@
 ---
 title: No Content Available
 tags:
-- No Content
+- No Text Provided
 - YouTube Video
-- Insufficient Information
-source: 20260815T064744Z-link.md
-created: 2026-08-15T06:47+00:00
+- No Summary Available
+source: 20260815T124735Z-link.md
+created: 2026-08-15T12:47+00:00
 status: processed
 ---
 

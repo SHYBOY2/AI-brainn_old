@@ -4,13 +4,13 @@
 ## August 2026
 - [[Journal Entry 11 August 2026]]
 
-## Incomplete
-- [[No Content Available]]
-
 ## Journal Entry
 - [[Journal Entry 11 August 2026]]
 
-## No Content
+## No Summary Available
+- [[No Content Available]]
+
+## No Text Provided
 - [[No Content Available]]
 
 ## Recall Request
@@ -22,7 +22,7 @@
 ## Workout
 - [[Workout Session Details]]
 
-## YouTube Link
+## YouTube Video
 - [[No Content Available]]
 
 ## qa
